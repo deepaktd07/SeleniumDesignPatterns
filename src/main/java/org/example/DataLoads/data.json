@@ -1,0 +1,7 @@
+[{"origin":"MAA",
+  "destination":"HYD",
+  "destination2":"BLR"
+},{"origin":"HYD",
+  "destination":"BLR",
+  "destination2":"MAA"
+}]
